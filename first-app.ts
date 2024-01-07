@@ -1,4 +1,4 @@
-let userName = "Veronika";
+let userName: string = "Veronika";
 
 userName = "Veronika";
 //userName = 34;
